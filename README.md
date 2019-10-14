@@ -1,4 +1,4 @@
-# Talon Modules for use with [Talon](https://talonvoice.com/)
+# Starter Pack of Talon Modules (for use with [Talon](https://talonvoice.com/))
 
 This collection of modules contains a starter pack of voice commands to be used with Talon, a hands-free input replacement. Modules for eye tracking with the Tobii 4C eye tracker are not included in this pack, but can be found in [Talon Community](https://github.com/dwiel/talon_community). 
 
