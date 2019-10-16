@@ -26,6 +26,7 @@ context.keymap(
         "(dubquote | double quote)": '"',
         "triple quote": "'''",
         "(dot dot | dotdot)": "..",
+        "ellipses": "…",
         "comma and": ", ",
         "plus": "+",
         "arrow": "->",
@@ -64,6 +65,6 @@ context.keymap(
         "(op | logical | bitwise) or equals": " |= ",
         "(op | logical | bitwise) (ex | exclusive) or equals": " ^= ",
         "[(op | logical | bitwise)] (left shift | shift left) equals": " <<= ",
-        "[(op | logical | bitwise)] right shift assign": " >>= ",
+        "[(op | logical | bitwise)] (left right | shift right) equals": " >>= ",
     }
 )
