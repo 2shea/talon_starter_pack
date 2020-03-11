@@ -1,3 +1,5 @@
+# ***This repository is compatible with the public release macOS (10.11-10.14). If you are using the private beta, check out [knausj_talon](https://github.com/knausj85/knausj_talon).***
+
 # Starter Pack of Talon Modules (for use with [Talon](https://talonvoice.com/))
 
 This collection of modules contains a starter pack of voice commands to be used with Talon, a hands-free input replacement. Modules for eye tracking with the Tobii 4C eye tracker are not included in this pack, but can be found in [Talon Community](https://github.com/dwiel/talon_community). 
